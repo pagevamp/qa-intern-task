@@ -1,5 +1,3 @@
-# qa-intern-task
-
 # Pagevamp Quality Assurance Intern Task
 
 We are looking for QA interns to be part of our team who can help us take productivity and efficiency of our testing process to a new level. 
